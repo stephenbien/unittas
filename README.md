@@ -1,7 +1,9 @@
 # Mini Project 2
 
-- laravel setup
-- generate authentication
+- Make a new Laravel site
+- Generate the authentication
+- Create a database seed that inserts 50 users
+- 
     
     
     
