@@ -1,2 +1,7 @@
 # Mini Project 2
-    laravel setup
+
+- laravel setup
+- generate authentication
+    
+    
+    
