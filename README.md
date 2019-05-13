@@ -16,6 +16,6 @@
 - Create a unit test to insert a user into the users table
 - Create a unit test to update the name of a user in the database to Steve Smith
 - Create a unit test to delete a user in the database [TESTED FOR SAVE]
-
+- [I could not complete the rest of the tests because I could not generate 50 cars]
     
     
