@@ -36,4 +36,9 @@ class UserTest extends TestCase
         $user->save();
     }
 
+    public function test_have_68_users()
+    {
+        $this->assertEquals(68, User::count());
+    }
+
 }
