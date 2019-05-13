@@ -10,9 +10,12 @@
 - Create a controller, route, and view to show an about page and add it to the main menu of your site
 ---
 - Write a feature test to check if the register return a 200 status code
-- Write a feature test to check if the login pages return a 200 status code
-- Write a feature test to check if your about page returns a 200 status code
-- Write a feature test to check if your contact page returns a 200 status code
+- Write a feature test to check if the login pages return a 200 status code 
+- Write a feature test to check if your about page returns a 200 status code [TESTED FOR 302]
+- Write a feature test to check if your contact page returns a 200 status code [TESTED FOR 302]
+- Create a unit test to insert a user into the users table
+- Create a unit test to update the name of a user in the database to Steve Smith
+- Create a unit test to delete a user in the database
 
     
     
