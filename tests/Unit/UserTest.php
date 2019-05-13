@@ -18,4 +18,14 @@ class UserTest extends TestCase
     {
         $this->assertTrue(true);
     }
+
+    public function testUserUpdate()
+    {
+        $user = factory(\App\User::class)->create();
+        $user = \App\User::find($user->id);
+        $user->name = 'Steve Smith';
+        $this->assertEquals('Steve Smith', $user->name);
+        $user->save();
+    }
+
 }
