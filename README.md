@@ -9,7 +9,10 @@
 - Create a controller, route, and view to show a contact form and add it to the main menu of your site
 - Create a controller, route, and view to show an about page and add it to the main menu of your site
 ---
--
-    
+- Write a feature test to check if the register return a 200 status code
+- Write a feature test to check if the login pages return a 200 status code
+- Write a feature test to check if your about page returns a 200 status code
+- Write a feature test to check if your contact page returns a 200 status code
+
     
     
